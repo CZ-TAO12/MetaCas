@@ -1,0 +1,5 @@
+torch-geometric==2.0.4
+numpy==1.17.4
+tqdm==4.62.2
+torch ==1.10.0
+scipy==1.7.3
