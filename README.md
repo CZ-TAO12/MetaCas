@@ -1,6 +1,6 @@
 # MetaCas
 
-A PyTorch implementation of our MetaCas.
+A PyTorch implementation of our MetaCas. The paper "Information Diffusion Prediction via Meta-Knowledge Learners" has been accepted in *Information Sciences*.
 
 ## Dependencies
 Install the dependencies via [Anaconda](https://www.anaconda.com/):
@@ -76,4 +76,3 @@ MetaCas
 └── run.py:            # Run the model.
 └── Optim.py:          # Optimization.
 
-```
